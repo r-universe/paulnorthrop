@@ -43,11 +43,6 @@
 	url = https://github.com/paulnorthrop/lite
 	shallow = true
 	registered = true
-[submodule "revdbayes"]
-	path = revdbayes
-	url = https://github.com/paulnorthrop/revdbayes
-	shallow = true
-	registered = true
 [submodule "rust"]
 	path = rust
 	url = https://github.com/paulnorthrop/rust
