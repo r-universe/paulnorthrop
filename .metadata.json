@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "donut",
-    "oncran": true
-  },
-  {
     "package": "exdex",
     "oncran": true
   },
@@ -28,7 +24,7 @@
     "oncran": true
   },
   {
-    "package": "lite",
+    "package": "revdbayes",
     "oncran": true
   },
   {
