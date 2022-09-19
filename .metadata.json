@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "donut",
+    "oncran": true
+  },
+  {
     "package": "exdex",
     "oncran": true
   },
@@ -21,6 +25,10 @@
   },
   {
     "package": "lax",
+    "oncran": true
+  },
+  {
+    "package": "lite",
     "oncran": true
   },
   {

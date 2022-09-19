@@ -18,6 +18,11 @@
 	url = https://github.com/paulnorthrop/chandwich
 	shallow = true
 	registered = true
+[submodule "donut"]
+	path = donut
+	url = https://github.com/paulnorthrop/donut
+	shallow = true
+	registered = true
 [submodule "exdex"]
 	path = exdex
 	url = https://github.com/paulnorthrop/exdex
@@ -31,6 +36,11 @@
 [submodule "lax"]
 	path = lax
 	url = https://github.com/paulnorthrop/lax
+	shallow = true
+	registered = true
+[submodule "lite"]
+	path = lite
+	url = https://github.com/paulnorthrop/lite
 	shallow = true
 	registered = true
 [submodule "revdbayes"]
