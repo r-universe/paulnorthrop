@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "exdex"]
-	path = exdex
-	url = https://github.com/paulnorthrop/exdex
+[submodule "anscombiser"]
+	path = anscombiser
+	url = https://github.com/paulnorthrop/anscombiser
 	shallow = true
 	registered = true
 [submodule "bang"]
@@ -13,19 +13,9 @@
 	url = https://github.com/paulnorthrop/bang
 	shallow = true
 	registered = true
-[submodule "smovie"]
-	path = smovie
-	url = https://github.com/paulnorthrop/smovie
-	shallow = true
-	registered = true
-[submodule "lite"]
-	path = lite
-	url = https://github.com/paulnorthrop/lite
-	shallow = true
-	registered = true
-[submodule "itp"]
-	path = itp
-	url = https://github.com/paulnorthrop/itp
+[submodule "chandwich"]
+	path = chandwich
+	url = https://github.com/paulnorthrop/chandwich
 	shallow = true
 	registered = true
 [submodule "donut"]
@@ -33,19 +23,29 @@
 	url = https://github.com/paulnorthrop/donut
 	shallow = true
 	registered = true
+[submodule "exdex"]
+	path = exdex
+	url = https://github.com/paulnorthrop/exdex
+	shallow = true
+	registered = true
+[submodule "itp"]
+	path = itp
+	url = https://github.com/paulnorthrop/itp
+	shallow = true
+	registered = true
+[submodule "lax"]
+	path = lax
+	url = https://github.com/paulnorthrop/lax
+	shallow = true
+	registered = true
+[submodule "lite"]
+	path = lite
+	url = https://github.com/paulnorthrop/lite
+	shallow = true
+	registered = true
 [submodule "revdbayes"]
 	path = revdbayes
 	url = https://github.com/paulnorthrop/revdbayes
-	shallow = true
-	registered = true
-[submodule "chandwich"]
-	path = chandwich
-	url = https://github.com/paulnorthrop/chandwich
-	shallow = true
-	registered = true
-[submodule "threshr"]
-	path = threshr
-	url = https://github.com/paulnorthrop/threshr
 	shallow = true
 	registered = true
 [submodule "rust"]
@@ -53,13 +53,13 @@
 	url = https://github.com/paulnorthrop/rust
 	shallow = true
 	registered = true
-[submodule "anscombiser"]
-	path = anscombiser
-	url = https://github.com/paulnorthrop/anscombiser
+[submodule "smovie"]
+	path = smovie
+	url = https://github.com/paulnorthrop/smovie
 	shallow = true
 	registered = true
-[submodule "lax"]
-	path = lax
-	url = https://github.com/paulnorthrop/lax
+[submodule "threshr"]
+	path = threshr
+	url = https://github.com/paulnorthrop/threshr
 	shallow = true
 	registered = true

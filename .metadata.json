@@ -1,6 +1,6 @@
 [
   {
-    "package": "exdex",
+    "package": "anscombiser",
     "oncran": true
   },
   {
@@ -8,15 +8,7 @@
     "oncran": true
   },
   {
-    "package": "smovie",
-    "oncran": true
-  },
-  {
-    "package": "lite",
-    "oncran": true
-  },
-  {
-    "package": "itp",
+    "package": "chandwich",
     "oncran": true
   },
   {
@@ -24,15 +16,23 @@
     "oncran": true
   },
   {
+    "package": "exdex",
+    "oncran": true
+  },
+  {
+    "package": "itp",
+    "oncran": true
+  },
+  {
+    "package": "lax",
+    "oncran": true
+  },
+  {
+    "package": "lite",
+    "oncran": true
+  },
+  {
     "package": "revdbayes",
-    "oncran": true
-  },
-  {
-    "package": "chandwich",
-    "oncran": true
-  },
-  {
-    "package": "threshr",
     "oncran": true
   },
   {
@@ -40,11 +40,11 @@
     "oncran": true
   },
   {
-    "package": "anscombiser",
+    "package": "smovie",
     "oncran": true
   },
   {
-    "package": "lax",
+    "package": "threshr",
     "oncran": true
   }
 ]
