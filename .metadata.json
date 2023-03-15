@@ -1,6 +1,6 @@
 [
   {
-    "package": "anscombiser",
+    "package": "exdex",
     "oncran": true
   },
   {
@@ -8,23 +8,7 @@
     "oncran": true
   },
   {
-    "package": "chandwich",
-    "oncran": true
-  },
-  {
-    "package": "donut",
-    "oncran": true
-  },
-  {
-    "package": "exdex",
-    "oncran": true
-  },
-  {
-    "package": "itp",
-    "oncran": true
-  },
-  {
-    "package": "lax",
+    "package": "smovie",
     "oncran": true
   },
   {
@@ -32,7 +16,23 @@
     "oncran": true
   },
   {
+    "package": "itp",
+    "oncran": true
+  },
+  {
+    "package": "donut",
+    "oncran": true
+  },
+  {
     "package": "revdbayes",
+    "oncran": true
+  },
+  {
+    "package": "chandwich",
+    "oncran": true
+  },
+  {
+    "package": "threshr",
     "oncran": true
   },
   {
@@ -40,11 +40,11 @@
     "oncran": true
   },
   {
-    "package": "smovie",
+    "package": "anscombiser",
     "oncran": true
   },
   {
-    "package": "threshr",
+    "package": "lax",
     "oncran": true
   }
 ]
