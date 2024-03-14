@@ -26,6 +26,9 @@
 [submodule "lite"]
 	path = lite
 	url = https://github.com/paulnorthrop/lite
+[submodule "r2stl"]
+	path = r2stl
+	url = https://github.com/paulnorthrop/r2stl
 [submodule "revdbayes"]
 	path = revdbayes
 	url = https://github.com/paulnorthrop/revdbayes
