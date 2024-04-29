@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "accessr"]
+	path = accessr
+	url = https://github.com/paulnorthrop/accessr
 [submodule "anscombiser"]
 	path = anscombiser
 	url = https://github.com/paulnorthrop/anscombiser
