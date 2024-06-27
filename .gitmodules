@@ -20,6 +20,9 @@
 [submodule "exdex"]
 	path = exdex
 	url = https://github.com/paulnorthrop/exdex
+[submodule "gamlssx"]
+	path = gamlssx
+	url = https://github.com/paulnorthrop/gamlssx
 [submodule "itp"]
 	path = itp
 	url = https://github.com/paulnorthrop/itp
