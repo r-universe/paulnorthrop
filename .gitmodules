@@ -17,6 +17,9 @@
 [submodule "donut"]
 	path = donut
 	url = https://github.com/paulnorthrop/donut
+[submodule "evmissing"]
+	path = evmissing
+	url = https://github.com/paulnorthrop/evmissing
 [submodule "exdex"]
 	path = exdex
 	url = https://github.com/paulnorthrop/exdex
