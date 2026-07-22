@@ -26,6 +26,9 @@
 [submodule "gamlssx"]
 	path = gamlssx
 	url = https://github.com/paulnorthrop/gamlssx
+[submodule "html2excel"]
+	path = html2excel
+	url = https://github.com/paulnorthrop/html2excel
 [submodule "itp"]
 	path = itp
 	url = https://github.com/paulnorthrop/itp
