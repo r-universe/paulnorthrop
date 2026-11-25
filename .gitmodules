@@ -47,6 +47,9 @@
 [submodule "revdbayes"]
 	path = revdbayes
 	url = https://github.com/paulnorthrop/revdbayes
+[submodule "rpanel"]
+	path = rpanel
+	url = https://github.com/paulnorthrop/rpanel
 [submodule "rust"]
 	path = rust
 	url = https://github.com/paulnorthrop/rust
